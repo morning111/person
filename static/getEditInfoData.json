@@ -1,0 +1,11 @@
+{
+	"ret":true,
+	"data":{
+		"editInfoData":{
+			"headPhotoUrl":"/static/images/my/headPhoto.jpg",
+			"userName":"132*****765",
+			"userSign":"愿你所愿，终能实现",
+			"gender":"女"
+		}
+	}
+}
